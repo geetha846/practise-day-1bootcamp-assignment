@@ -1,0 +1,22 @@
+<DOCTYPE>
+	<html>
+	<head>
+		<title>
+		ordered list</title>
+	</head>
+	<body>
+		<h2>list</h2>
+		<u1>
+			<li>name</li>
+			<li>aadhar card</li>
+			<li>phn number</li>
+		</u1>
+		<u1>
+			<u1 style="list-style-type:square ;">
+				<li>geetha</li>
+				<li>9836464336</li>
+				<li>673443233</li>
+			</u1>
+		</body>
+		</html>
+
