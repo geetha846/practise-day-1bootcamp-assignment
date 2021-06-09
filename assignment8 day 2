@@ -1,0 +1,20 @@
+<doctype>
+	<html>
+	<head>
+		<title>ordered list</title>
+	</head>
+	<body>
+		<h2>list</h2>
+		<ol>
+			<li>name</li>
+			<li>aadhar card</li>
+			<li>phn number</li>
+		</ol>
+		<ol type="i">
+			<li>name</li>
+			<li>aadhar</li>
+			<li>phn no</li>
+		</ol>
+	</body>
+	</html>
+
