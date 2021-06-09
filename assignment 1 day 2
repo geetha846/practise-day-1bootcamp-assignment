@@ -1,0 +1,25 @@
+!DOCTYPE>
+<html>
+	<head>
+		<title>creating Table</title>
+	</head>
+	<body>
+		<table border="1">
+			<tr>
+				<th>name</th>
+				<th>aadhar number</th>
+				<th>phn number</th>
+			</tr>
+			<tr>
+				<td>geetha</td>
+				<td>2208763412846</td>
+				<td>9955443322/td>
+			</tr>
+			<tr>
+				<td>sai</td>
+				<td>7937723243236</td>
+				<td>8775323577</td>
+			</tr>
+		</table>
+	</body>
+</html>
